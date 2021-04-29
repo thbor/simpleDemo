@@ -5,8 +5,10 @@
 页面比较简陋，没有做样式
 登录：
 ![Image](https://github.com/thbor/simpleDemo/blob/gh-pages/login.png)
+<br>
 主页右上角用户名和退出：
 ![Image](https://github.com/thbor/simpleDemo/blob/gh-pages/logout.png)
+<br>
 错误：
 1.没有登录
 ![Image](https://github.com/thbor/simpleDemo/blob/gh-pages/error.png)
