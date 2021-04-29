@@ -15,7 +15,7 @@ const index=()=>{
         :
         <div className="child">
           <div>密码错误或未登录</div>
-          <Button onClick={()=>history.push('/')}>返回主页</Button>
+          <Button onClick={()=>history.push('/login')}>返回登录</Button>
         </div>
         }
       </div>
