@@ -11,8 +11,11 @@
 <br>
 错误：
 1.没有登录
+<br>
 ![Image](https://github.com/thbor/simpleDemo/blob/gh-pages/error.png)
+<br>
 2.没有找到路由
+<br>
 ![Image](https://github.com/thbor/simpleDemo/blob/gh-pages/404.png)
 
 
