@@ -1,0 +1,14 @@
+[
+  {"label":"一次不良數","key":"firstBlp","type":"value","name":"一次不良"},
+  {"label":"一次不良率","key":"firstBadRate","type":"rate","name":"一次不良"},
+  {"label":"不良數","key":"blp","type":"value","name":"不良品"},
+  {"label":"總不良率","key":"badRate","type":"rate","name":"不良品"},
+  {"label":"報廢數","key":"bfp","type":"value","name":"報廢品"},
+  {"label":"報廢率","key":"scappedRate","type":"rate","name":"報廢品"},
+  {"label":"重工不良數","key":"reworkBlp","type":"value","name":"重工不良"},
+  {"label":"重工不良率","key":"reworkBadRate","type":"rate","name":"重工不良"},
+  {"label":"良率","key":"goodRate","type":"rate","name":"良品"},
+  {"label":"良品数","key":"lp","type":"value","name":"良品"},
+  {"label":"重工投入數","key":"reworkTr","type":"value","name":"reworkTr"},
+  {"label":"總投入數","key":"tr","type":"value","name":"tr"}
+]
