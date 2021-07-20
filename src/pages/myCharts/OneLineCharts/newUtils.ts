@@ -21,7 +21,7 @@ export const oneLevelLineData=(data:any,generateData:any)=>{
   return {topData,prodTypeAndRateValue};
 }
 export const getProdTypeAndRateValue=(data: any)=>{
-  const rateOrValue = data.rateList[0]==='数值'?'value':'rate';
+  const rateOrValue = data.rateList[0]==='數值'?'value':'rate';
   const prodTypeList = data.prodType;
   const targetType = typeJson.filter((typeItem: IType)=>prodTypeList.includes(typeItem.name)&&typeItem.type===rateOrValue);
   return targetType;

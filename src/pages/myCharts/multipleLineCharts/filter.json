@@ -1,0 +1,38 @@
+{
+	"conLevel1": {
+		"itemType": 11,
+		"itemValueList": ["天"]
+	},
+	"conLevel3": {
+		"itemType": "5",
+		"itemValueList": ["UJ","NN"]
+	},
+	"conLevel2": {
+		"itemType": "9",
+		"itemValueList": ["M1","M2","M3","NA"]
+	},
+	"chartType": {
+		"itemType": 16,
+		"chartType": "餅圖",
+		"rankValue": 0
+	},
+	"itemList": ["DDS@Sideband"],
+	"prodType": ["不良品"],
+	"productInfo": {
+		"model": "Lisboa",
+		"processList": [{
+			"process": "ANO",
+			"startDate": "2021-06-01 08:30:00",
+			"endDate": "2021-06-30 08:30:00",
+			"type": "day"
+		}],
+		"prodname": "DH"
+	},
+	"queryTypeList": ["外觀"],
+	"rateList": ["數值"],
+	"sizeSourceList": [""],
+	"itemChList": ["DDS@四侧"],
+	"partsnList": [],
+	"midValueList": [],
+	"midValueList1": []
+}

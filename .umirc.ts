@@ -9,7 +9,8 @@ export default defineConfig({
     { path: '/', component: '@/pages/index',wrappers: ['@/wrappers/auth']},
     { path: '/login', component: '@/pages/login' },
     { path: '/index', component: '@/pages/index',wrappers: ['@/wrappers/auth']},
-    { path: '/myCharts', component: '@/pages/myCharts'},
+    { path: '/oneLineCharts', component: '@/pages/myCharts/OneLineCharts'},
+    { path: '/multipleLineCharts', component: '@/pages/myCharts/multipleLineCharts'},
     { path: '/error', component: '@/pages/error'},
     { path: '*', redirect:'/error'},  //没有这个页面时跳转
   ],
